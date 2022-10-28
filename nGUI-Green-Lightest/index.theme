@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=nGUI-Green-Lightest
+Comment=A nGUI Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=nGUI-Green-Lightest
+GtkTheme=nGUI-Green-Lightest
+IconTheme=nGUI-Green
+MetacityTheme=nGUI-Green-Lightest
